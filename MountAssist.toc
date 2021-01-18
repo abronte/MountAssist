@@ -1,0 +1,7 @@
+## Interface: 90002
+## Author: Jerb
+## Title: Mount Assist 
+## Version: 0.01
+## SavedVariables: MNTASSTConfig
+
+MountAssist.lua
